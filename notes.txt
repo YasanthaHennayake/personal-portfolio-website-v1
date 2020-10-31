@@ -1,0 +1,12 @@
+HTML Minifier Used:
+https://kangax.github.io/html-minifier/
+
+
+Github API Endpoint:
+https://api.github.com/repos/YasanthaHennayake/personal-portfolio-website-v1
+
+Keys
+html_url
+stargazers_count
+watchers_count
+forks_count
